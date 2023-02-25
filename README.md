@@ -15,4 +15,19 @@ $git branch -d branch name
 $git tags
 ```
 
+#To delete remote tag
+```bash
+$git push origin --delete v1.7
+```
+
+# To delete local tags
+```bash
+git tag -d v1.7
+```
+
+
+
+
+
+
 
