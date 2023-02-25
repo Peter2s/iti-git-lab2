@@ -25,6 +25,9 @@ $git push origin --delete v1.7
 git tag -d v1.7
 ```
 
+![alt text](https://github.com/Peter2s/iti-git-lab2/blob/master/1024px-Git-logo.svg.png?raw=true)
+
+
 
 
 
