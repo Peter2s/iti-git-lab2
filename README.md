@@ -10,3 +10,9 @@ $git push origin :branch name
 $git branch -d branch name
 ```
 
+#list tage
+```bash
+$git tags
+```
+
+
